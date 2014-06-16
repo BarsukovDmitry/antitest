@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2009.03.22 14:32:47.125.cpp,C:\Documents and Settings\Dima\Мои документы\Borland Studio Projects\Unit1.cpp=D:\Рабочая\my programs\antitest\Unit1.cpp</Transaction>
+    <Transaction>2009.03.22 14:32:47.125.h,C:\Documents and Settings\Dima\Мои документы\Borland Studio Projects\Unit1.h=D:\Рабочая\my programs\antitest\Unit1.h</Transaction>
+    <Transaction>2009.03.22 14:32:47.125.dfm,C:\Documents and Settings\Dima\Мои документы\Borland Studio Projects\Unit1.dfm=D:\Рабочая\my programs\antitest\Unit1.dfm</Transaction>
+    <Transaction>2009.03.22 14:32:48.343.bdsproj,C:\Documents and Settings\Dima\Мои документы\Borland Studio Projects\Project1.bdsproj=D:\Рабочая\my programs\antitest\Project1.bdsproj</Transaction>
+    <Transaction>2009.03.22 14:32:58.296.bdsproj,D:\Рабочая\my programs\antitest\Project1.bdsproj=D:\Рабочая\my programs\antitest\antitest.bdsproj</Transaction>
+    <Transaction>2009.03.22 14:33:27.328.cpp,D:\Рабочая\my programs\antitest\Unit1.cpp=D:\Рабочая\my programs\antitest\UMainForm.cpp</Transaction>
+    <Transaction>2009.03.22 14:33:27.328.h,D:\Рабочая\my programs\antitest\Unit1.h=D:\Рабочая\my programs\antitest\UMainForm.h</Transaction>
+    <Transaction>2009.03.22 14:33:27.328.dfm,D:\Рабочая\my programs\antitest\Unit1.dfm=D:\Рабочая\my programs\antitest\UMainForm.dfm</Transaction>
+    <Transaction>2009.03.22 17:33:39.593.cpp,D:\Рабочая\my programs\antitest\Unit2.cpp=D:\Рабочая\my programs\antitest\UOtvety.cpp</Transaction>
+    <Transaction>2009.03.22 17:33:39.609.h,D:\Рабочая\my programs\antitest\Unit2.h=D:\Рабочая\my programs\antitest\UOtvety.h</Transaction>
+    <Transaction>2009.03.22 17:33:39.609.dfm,D:\Рабочая\my programs\antitest\Unit2.dfm=D:\Рабочая\my programs\antitest\UOtvety.dfm</Transaction>
+    <Transaction>2009.03.22 20:09:07.671.cpp,D:\Рабочая\my programs\antitest\Unit1.cpp=D:\Рабочая\my programs\antitest\UTemy.cpp</Transaction>
+    <Transaction>2009.03.22 20:09:07.671.h,D:\Рабочая\my programs\antitest\Unit1.h=D:\Рабочая\my programs\antitest\UTemy.h</Transaction>
+    <Transaction>2009.03.22 20:09:07.671.dfm,D:\Рабочая\my programs\antitest\Unit1.dfm=D:\Рабочая\my programs\antitest\UTemy.dfm</Transaction>
+    <Transaction>2009.03.22 21:02:58.031.cpp,D:\Рабочая\my programs\antitest\Unit1.cpp=D:\Рабочая\my programs\antitest\UMenu.cpp</Transaction>
+    <Transaction>2009.03.22 21:02:58.031.h,D:\Рабочая\my programs\antitest\Unit1.h=D:\Рабочая\my programs\antitest\UMenu.h</Transaction>
+    <Transaction>2009.03.22 21:02:58.031.dfm,D:\Рабочая\my programs\antitest\Unit1.dfm=D:\Рабочая\my programs\antitest\UMenu.dfm</Transaction>
+    <Transaction>2009.03.22 21:10:15.171.cpp,D:\Рабочая\my programs\antitest\UMenu.cpp=D:\Рабочая\my programs\antitest\UTestMenu.cpp</Transaction>
+    <Transaction>2009.03.22 21:10:15.171.h,D:\Рабочая\my programs\antitest\UMenu.h=D:\Рабочая\my programs\antitest\UTestMenu.h</Transaction>
+    <Transaction>2009.03.22 21:10:15.171.dfm,D:\Рабочая\my programs\antitest\UMenu.dfm=D:\Рабочая\my programs\antitest\UTestMenu.dfm</Transaction>
+    <Transaction>2009.03.26 14:16:02.812.cpp,D:\Рабочая\my programs\antitest\Unit1.cpp=D:\Рабочая\my programs\antitest\UAbout.cpp</Transaction>
+    <Transaction>2009.03.26 14:16:02.812.h,D:\Рабочая\my programs\antitest\Unit1.h=D:\Рабочая\my programs\antitest\UAbout.h</Transaction>
+    <Transaction>2009.03.26 14:16:02.812.dfm,D:\Рабочая\my programs\antitest\Unit1.dfm=D:\Рабочая\my programs\antitest\UAbout.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
